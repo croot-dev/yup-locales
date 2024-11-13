@@ -4,6 +4,7 @@ import * as bs from './locales/bs';
 import * as cs from './locales/cs';
 import * as da from './locales/da';
 import * as de from './locales/de';
+import * as el from './locales/el';
 import * as en from './locales/en';
 import * as es from './locales/es';
 import * as fr from './locales/fr';
@@ -35,6 +36,7 @@ export {
   cs,
   da,
   de,
+  el,
   en,
   es,
   fr,
